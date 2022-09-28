@@ -1,0 +1,41 @@
+
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: 18_frak_complex
+url: https://github.com/tboenig/18_frak_complex
+authors:
+  - name: Boenig
+    surname: Matthias
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+      - digitization
+      - support
+description: >
+  Ground Truth with a collection of documents with the following
+  characteristics: 
+
+  font blackletter, marginal notes, partly two-columned, tables, mathematics,
+  handwritten additions, with title page, stamps
+project-name: OCR-D
+project-website: https://ocr-d.de/
+language:
+  - deu
+script:
+  - Latn
+  - Goth
+script-type: print
+time:
+  notBefore: '1700'
+  notAfter: '1800'
+hands:
+  count: '3'
+  level: levelmix
+license:
+  - name: CC0 1.0
+    url: https://creativecommons.org/licenses/zero/1.0/
+gtTyp: data_structure_and_text
+format: Page-XML
+transcription-guidelines: OCR-D Ground Truth Guidelines https://ocr-d.de/en/gt-guidelines/trans/
