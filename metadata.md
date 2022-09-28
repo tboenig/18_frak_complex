@@ -38,7 +38,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_frak_complex/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
+         <a href="https://github.com/tboenig/18_frak_complex/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_frak_complex/releases">Version archive</a>
@@ -57,6 +57,21 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                   <dd>TextLine</dd>
                   <dt>Page</dt>
                   <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                        target="_blank">GraphicRegion</a>
+                  </dd>
+                  <dt>SepRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
+                        target="_blank">SeperatorRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -68,6 +83,15 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
+                  <i>SepRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -77,12 +101,18 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>828</td>
+            <td>27</td>
+            <td>226</td>
+            <td>14</td>
+            <td>51</td>
          </tr>
       </tbody>
    </table>
