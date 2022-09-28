@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>OCR-D</Creator>
+        <Created>2016-11-02T09:44:06.150+01:00</Created>
+        <LastChange>2017-03-03T11:50:28.454+01:00</LastChange>
+    </Metadata>
+    <Page imageFilename="nn_besuch_1780_00002.tif" imageWidth="2000" imageHeight="2271" type="content">
+        <Border>
+            <Coords points="1349,242 629,242 629,1778 1349,1778"/>
+        </Border>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1488538228486" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r14"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r14" >
+            <Coords points="685,1747 681,1715 678,1713 677,1712 676,1692 674,1650 663,1202 647,356 647,267 648,265 650,263 652,262 708,261 1064,258 1196,258 1329,260 1330,1741"/>
+            <TextLine id="r1001" >
+                <Coords points="964,267 665,269 660,270 657,281 658,304 658,307 753,311 1104,312 1174,312 1224,310 1229,309 1233,295 1233,291 1211,267 1077,267 965,267"/>
+                <Baseline points="657,303 752,301 848,299 943,299 1039,301 1233,297"/>
+                <Word id="word_1480681236163_2" >
+                    <Coords points="658,271 732,271 732,314 658,314"/>
+                    <TextEquiv>
+                        <Unicode>Mih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681238768_3" >
+                    <Coords points="742,271 852,271 852,312 742,312"/>
+                    <TextEquiv>
+                        <Unicode>freuts,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681240531_4" >
+                    <Coords points="871,270 927,270 927,312 871,312"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681242325_5" >
+                    <Coords points="941,270 980,270 980,311 941,311"/>
+                    <TextEquiv>
+                        <Unicode>ih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681243791_6" >
+                    <Coords points="993,267 1041,267 1041,303 993,303"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681245304_7" >
+                    <Coords points="1059,265 1142,265 1142,311 1059,311"/>
+                    <TextEquiv>
+                        <Unicode>Eiher</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681246646_8" >
+                    <Coords points="1166,267 1231,267 1230,313 1165,313"/>
+                    <TextEquiv>
+                        <Unicode>hob,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mih freuts, daß ih die Eiher hob,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1002" >
+                <Coords points="1277,324 871,325 666,326 659,330 658,367 658,369 696,372 1138,371 1304,366 1333,346 1332,329 1331,326 1330,326 1320,325 1309,325 1301,324 1278,324"/>
+                <Baseline points="658,368 770,362 882,356 994,356 1106,356 1333,357"/>
+                <Word id="word_1480681249392_9" >
+                    <Coords points="661,332 720,332 720,372 661,372"/>
+                    <TextEquiv>
+                        <Unicode>Jhr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681250920_10" >
+                    <Coords points="740,330 800,330 800,370 740,370"/>
+                    <TextEquiv>
+                        <Unicode>ſeyd</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681252356_11" >
+                    <Coords points="818,329 878,329 878,366 818,366"/>
+                    <TextEquiv>
+                        <Unicode>doch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681254087_12" >
+                    <Coords points="900,328 993,328 993,365 900,365"/>
+                    <TextEquiv>
+                        <Unicode>g'ſund</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681255398_13" >
+                    <Coords points="1014,330 1063,330 1063,360 1014,360"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681259313_14" >
+                    <Coords points="1084,329 1179,329 1179,366 1084,366"/>
+                    <TextEquiv>
+                        <Unicode>wuhl?</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681261341_15" >
+                    <Coords points="1198,325 1332,325 1332,361 1198,361"/>
+                    <TextEquiv>
+                        <Unicode>Gottlob!</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Jhr ſeyd doch g'ſund und wuhl? Gottlob!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1003" >
+                <Coords points="1012,383 667,384 662,385 660,393 660,416 660,418 671,424 1013,426 1195,425 1225,424 1228,424 1234,409 1234,404 1217,386 1215,386 1210,385 1113,385 1094,384 1020,384 1013,383"/>
+                <Baseline points="660,416 755,415 850,414 945,413 1040,413 1234,413"/>
+                <Word id="word_1480681263525_16" >
+                    <Coords points="661,386 723,386 723,421 661,421"/>
+                    <TextEquiv>
+                        <Unicode>Und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681265257_17" >
+                    <Coords points="745,392 804,392 804,420 745,420"/>
+                    <TextEquiv>
+                        <Unicode>wos</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681266708_18" >
+                    <Coords points="825,393 883,393 883,419 825,419"/>
+                    <TextEquiv>
+                        <Unicode>mer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681268174_19" >
+                    <Coords points="901,390 954,390 954,418 901,418"/>
+                    <TextEquiv>
+                        <Unicode>nau</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681269968_20" >
+                    <Coords points="970,386 1029,386 1029,426 970,426"/>
+                    <TextEquiv>
+                        <Unicode>noh</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681272058_21" >
+                    <Coords points="1032,382 1138,382 1138,425 1032,425"/>
+                    <TextEquiv>
+                        <Unicode>ſunſt'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681273759_22" >
+                    <Coords points="1157,383 1232,383 1232,424 1157,424"/>
+                    <TextEquiv>
+                        <Unicode>ſagt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Und wos mer nau noh ſunſt'n ſagt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1004" >
+                <Coords points="994,438 780,439 667,440 664,440 661,450 661,472 661,474 671,480 973,481 1198,481 1226,475 1229,454 1220,446 1218,441 1205,441 1198,438 995,438"/>
+                <Baseline points="661,472 753,472 846,472 938,471 1031,470 1220,469"/>
+                <Word id="word_1480681275740_23" >
+                    <Coords points="662,443 726,443 725,474 661,474"/>
+                    <TextEquiv>
+                        <Unicode>Und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681277456_24" >
+                    <Coords points="742,443 800,443 800,475 742,475"/>
+                    <TextEquiv>
+                        <Unicode>woͤi</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681279234_25" >
+                    <Coords points="822,450 877,450 877,475 822,475"/>
+                    <TextEquiv>
+                        <Unicode>mer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681281387_26" >
+                    <Coords points="893,441 1115,441 1115,481 893,481"/>
+                    <TextEquiv>
+                        <Unicode>Cumplament'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681283025_27" >
+                    <Coords points="1134,441 1230,441 1229,479 1134,481"/>
+                    <TextEquiv>
+                        <Unicode>macht.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Und woͤi mer Cumplament'n macht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1005" >
+                <Coords points="1076,496 894,497 682,498 668,498 662,509 662,523 663,534 663,537 771,541 860,541 1270,538 1276,537 1280,521 1280,517 1264,500 1255,499 1195,499 1182,498 1118,498 1103,497 1081,497 1077,496"/>
+                <Baseline points="662,532 764,530 867,529 969,528 1072,527 1280,526"/>
+                <Word id="word_1480681284897_28" >
+                    <Coords points="662,502 732,502 732,536 662,536"/>
+                    <TextEquiv>
+                        <Unicode>Mer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681286364_29" >
+                    <Coords points="754,500 785,500 785,542 754,542"/>
+                    <TextEquiv>
+                        <Unicode>iß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681289234_30" >
+                    <Coords points="804,500 955,500 955,540 804,540"/>
+                    <TextEquiv>
+                        <Unicode>vergnoͤgt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681290700_31" >
+                    <Coords points="971,506 1027,506 1027,529 971,529"/>
+                    <TextEquiv>
+                        <Unicode>mer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681292276_32" >
+                    <Coords points="1047,496 1130,496 1130,533 1047,533"/>
+                    <TextEquiv>
+                        <Unicode>trinkt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681293945_33" >
+                    <Coords points="1145,501 1208,501 1208,529 1145,529"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681295630_34" >
+                    <Coords points="1216,497 1278,497 1278,538 1216,538"/>
+                    <TextEquiv>
+                        <Unicode>ißt,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mer iß vergnoͤgt, mer trinkt und ißt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1006" >
+                <Coords points="946,552 683,554 671,555 664,569 664,578 665,586 669,593 729,597 1172,597 1260,596 1288,594 1315,588 1318,567 1309,560 1307,555 1298,555 1279,554 1177,554 1165,553 1092,553 1084,552 947,552"/>
+                <Baseline points="664,589 771,587 878,586 985,584 1092,584 1309,582"/>
+                <Word id="word_1480681802460_35" >
+                    <Coords points="664,558 742,558 742,597 664,597"/>
+                    <TextEquiv>
+                        <Unicode>Su,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681804176_36" >
+                    <Coords points="758,559 814,559 814,599 758,599"/>
+                    <TextEquiv>
+                        <Unicode>daß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681806672_37" >
+                    <Coords points="834,564 909,564 909,590 834,590"/>
+                    <TextEquiv>
+                        <Unicode>mern</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681810136_38" >
+                    <Coords points="930,554 1063,554 1063,595 930,595"/>
+                    <TextEquiv>
+                        <Unicode>Schlauff</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681812522_39" >
+                    <Coords points="1079,554 1181,554 1181,594 1079,594"/>
+                    <TextEquiv>
+                        <Unicode>baynah</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681814784_40" >
+                    <Coords points="1202,554 1316,554 1316,593 1202,593"/>
+                    <TextEquiv>
+                        <Unicode>vergißt.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Su, daß mern Schlauff baynah vergißt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1007" >
+                <Coords points="1136,609 674,611 668,612 665,625 665,643 667,648 735,655 965,655 1313,654 1328,653 1338,638 1338,632 1318,614 1315,614 1311,613 1273,613 1264,609 1137,609"/>
+                <Baseline points="665,645 776,644 888,642 999,641 1111,642 1338,640"/>
+                <Word id="word_1480681822803_41" >
+                    <Coords points="664,613 750,613 750,655 664,655"/>
+                    <TextEquiv>
+                        <Unicode>Doch</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681824519_42" >
+                    <Coords points="762,622 849,622 849,649 762,649"/>
+                    <TextEquiv>
+                        <Unicode>wenn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681826063_43" >
+                    <Coords points="860,617 937,617 937,648 860,648"/>
+                    <TextEquiv>
+                        <Unicode>mers</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681828060_44" >
+                    <Coords points="954,610 1014,611 1014,654 954,653"/>
+                    <TextEquiv>
+                        <Unicode>halt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681829776_45" >
+                    <Coords points="1031,613 1062,613 1062,652 1031,652"/>
+                    <TextEquiv>
+                        <Unicode>ſu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681831632_46" >
+                    <Coords points="1083,613 1162,613 1162,646 1083,646"/>
+                    <TextEquiv>
+                        <Unicode>treibt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681833068_47" >
+                    <Coords points="1180,610 1208,610 1208,647 1180,647"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681835408_48" >
+                    <Coords points="1226,614 1337,614 1337,653 1226,653"/>
+                    <TextEquiv>
+                        <Unicode>d'Laͤng,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Doch wenn mers halt ſu treibt in d'Laͤng,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1008" >
+                <Coords points="966,667 682,668 672,671 666,697 666,702 680,713 1153,712 1236,711 1251,711 1262,701 1263,697 1261,688 1235,672 1189,672 1185,671 1120,671 1118,671 1097,667 967,667"/>
+                <Baseline points="666,701 765,700 864,698 963,697 1062,698 1263,698"/>
+                <Word id="word_1480681839245_49" >
+                    <Coords points="666,670 757,670 757,714 666,714"/>
+                    <TextEquiv>
+                        <Unicode>Haut</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681841460_50" >
+                    <Coords points="766,670 854,670 854,714 766,714"/>
+                    <TextEquiv>
+                        <Unicode>g'eſſ'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681842896_51" >
+                    <Coords points="870,672 929,672 929,703 870,703"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681844596_52" >
+                    <Coords points="944,666 1007,666 1007,712 944,712"/>
+                    <TextEquiv>
+                        <Unicode>niht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681847014_53" >
+                    <Coords points="1020,670 1135,670 1135,704 1020,704"/>
+                    <TextEquiv>
+                        <Unicode>trunk'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681849338_54" >
+                    <Coords points="1144,671 1259,671 1259,710 1144,710"/>
+                    <TextEquiv>
+                        <Unicode>z'weng,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Haut g'eſſ'n und niht trunk'n z'weng,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1009" >
+                <Coords points="859,724 682,726 672,728 668,743 668,750 672,763 757,769 1152,769 1170,767 1176,766 1181,751 1181,748 1154,725 1150,724 975,724 860,724"/>
+                <Baseline points="668,761 753,759 838,757 923,756 1008,756 1181,755"/>
+                <Word id="word_1480681851741_55" >
+                    <Coords points="670,728 722,727 722,763 670,764"/>
+                    <TextEquiv>
+                        <Unicode>So</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681853160_56" >
+                    <Coords points="740,728 769,728 769,771 740,771"/>
+                    <TextEquiv>
+                        <Unicode>iß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681854814_57" >
+                    <Coords points="787,728 831,728 831,766 787,766"/>
+                    <TextEquiv>
+                        <Unicode>nix</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681856608_58" >
+                    <Coords points="852,725 935,725 935,769 852,769"/>
+                    <TextEquiv>
+                        <Unicode>beſſer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681858293_59" >
+                    <Coords points="949,727 999,727 999,762 949,762"/>
+                    <TextEquiv>
+                        <Unicode>als</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681859853_60" >
+                    <Coords points="1014,727 1060,727 1060,760 1014,760"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480681862801_61" >
+                    <Coords points="1077,727 1180,727 1180,765 1077,765"/>
+                    <TextEquiv>
+                        <Unicode>Rouh,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>So iß nix beſſer als die Rouh,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1010" >
+                <Coords points="914,781 689,783 674,783 668,795 668,816 670,821 805,827 1072,826 1196,825 1241,820 1245,810 1242,791 1166,781 915,781"/>
+                <Baseline points="668,814 763,819 859,814 954,813 1050,811 1245,812"/>
+                <Word id="word_1480682085054_62" >
+                    <Coords points="670,785 732,785 732,822 670,822"/>
+                    <TextEquiv>
+                        <Unicode>Und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682086380_63" >
+                    <Coords points="751,783 780,783 780,829 751,829"/>
+                    <TextEquiv>
+                        <Unicode>ſu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682088268_64" >
+                    <Coords points="797,782 889,782 889,828 797,828"/>
+                    <TextEquiv>
+                        <Unicode>geihts</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682089641_65" >
+                    <Coords points="909,781 952,781 952,826 909,826"/>
+                    <TextEquiv>
+                        <Unicode>oͤiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682091029_66" >
+                    <Coords points="968,784 1022,784 1022,818 968,818"/>
+                    <TextEquiv>
+                        <Unicode>dau</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682093369_67" >
+                    <Coords points="1042,782 1080,782 1080,824 1042,824"/>
+                    <TextEquiv>
+                        <Unicode>ah</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682095241_68" >
+                    <Coords points="1096,779 1174,779 1174,825 1096,825"/>
+                    <TextEquiv>
+                        <Unicode>d'raf</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682096942_69" >
+                    <Coords points="1186,790 1246,790 1246,824 1186,824"/>
+                    <TextEquiv>
+                        <Unicode>zou.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Und ſu geihts oͤiz dau ah d'raf zou.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1011" >
+                <Coords points="876,838 684,839 672,843 668,866 668,875 669,879 729,882 1109,881 1163,882 1182,881 1187,880 1191,864 1190,859 1167,843 1122,843 1119,842 1033,842 1010,838 877,838"/>
+                <Baseline points="668,874 754,872 841,872 927,872 1014,868 1191,868"/>
+                <Word id="word_1480682100093_70" >
+                    <Coords points="670,841 740,841 740,883 670,883"/>
+                    <TextEquiv>
+                        <Unicode>Oeiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682101653_71" >
+                    <Coords points="757,843 787,843 787,876 757,876"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682103041_72" >
+                    <Coords points="807,846 846,846 846,875 807,875"/>
+                    <TextEquiv>
+                        <Unicode>an</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682105631_73" >
+                    <Coords points="862,841 985,841 985,877 862,877"/>
+                    <TextEquiv>
+                        <Unicode>Zimmer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682107924_74" >
+                    <Coords points="998,841 1081,841 1081,880 998,880"/>
+                    <TextEquiv>
+                        <Unicode>lieg'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682110872_75" >
+                    <Coords points="1103,845 1190,845 1190,880 1103,880"/>
+                    <TextEquiv>
+                        <Unicode>zwey,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Oeiz in an Zimmer lieg'n zwey,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1012" >
+                <Coords points="1137,895 686,896 674,897 669,906 669,931 671,936 990,939 1248,939 1253,938 1268,924 1256,912 1254,897 1249,895 1138,895"/>
+                <Baseline points="669,930 766,928 864,926 961,926 1059,927 1256,929"/>
+                <Word id="word_1480682113056_76" >
+                    <Coords points="670,898 736,898 736,934 670,934"/>
+                    <TextEquiv>
+                        <Unicode>Der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682114944_77" >
+                    <Coords points="754,901 831,901 831,931 754,931"/>
+                    <TextEquiv>
+                        <Unicode>dritt'</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682116332_78" >
+                    <Coords points="849,899 895,899 895,932 849,932"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682118516_79" >
+                    <Coords points="917,900 995,900 995,937 917,937"/>
+                    <TextEquiv>
+                        <Unicode>mouß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682120217_80" >
+                    <Coords points="1016,899 1078,899 1078,930 1016,930"/>
+                    <TextEquiv>
+                        <Unicode>dort</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682122136_81" >
+                    <Coords points="1095,894 1180,894 1180,931 1095,931"/>
+                    <TextEquiv>
+                        <Unicode>nuͤber</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682124132_82" >
+                    <Coords points="1194,898 1267,898 1267,938 1194,938"/>
+                    <TextEquiv>
+                        <Unicode>geih.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Der dritt' der mouß dort nuͤber geih.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1013" >
+                <Coords points="1035,951 686,953 674,956 670,969 670,988 671,993 731,999 1158,997 1217,996 1226,995 1237,979 1237,974 1217,956 1216,956 1207,955 1125,955 1111,954 1050,954 1036,951"/>
+                <Baseline points="670,988 764,986 858,984 952,984 1046,983 1237,981"/>
+                <Word id="word_1480682126566_83" >
+                    <Coords points="671,958 742,958 742,997 671,997"/>
+                    <TextEquiv>
+                        <Unicode>Oeiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682128282_84" >
+                    <Coords points="757,952 905,952 905,999 757,999"/>
+                    <TextEquiv>
+                        <Unicode>ſchlauff'ns</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682129982_85" >
+                    <Coords points="922,955 972,955 972,990 922,990"/>
+                    <TextEquiv>
+                        <Unicode>alli</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682132042_86" >
+                    <Coords points="990,950 1055,950 1055,995 990,995"/>
+                    <TextEquiv>
+                        <Unicode>ſchoͤi</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682133695_87" >
+                    <Coords points="1076,955 1129,955 1129,987 1076,987"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682135583_88" >
+                    <Coords points="1148,962 1230,962 1230,993 1148,993"/>
+                    <TextEquiv>
+                        <Unicode>gout,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Oeiz ſchlauff'ns alli ſchoͤi und gout,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1014" >
+                <Coords points="1134,1008 687,1010 677,1012 673,1025 673,1033 674,1041 677,1048 752,1054 1216,1053 1273,1049 1278,1040 1278,1034 1271,1012 1262,1011 1221,1011 1215,1008 1135,1008"/>
+                <Baseline points="673,1044 773,1043 874,1042 974,1041 1075,1040 1278,1039"/>
+                <Word id="word_1480682137736_89" >
+                    <Coords points="675,1016 728,1016 728,1051 675,1051"/>
+                    <TextEquiv>
+                        <Unicode>Su</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682139592_90" >
+                    <Coords points="749,1014 868,1013 868,1054 749,1055"/>
+                    <TextEquiv>
+                        <Unicode>praͤchti,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682141433_91" >
+                    <Coords points="885,1014 932,1014 932,1044 885,1044"/>
+                    <TextEquiv>
+                        <Unicode>als</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682142946_92" >
+                    <Coords points="951,1018 1025,1018 1025,1047 951,1047"/>
+                    <TextEquiv>
+                        <Unicode>mers</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682145302_93" >
+                    <Coords points="1040,1010 1173,1010 1173,1051 1040,1051"/>
+                    <TextEquiv>
+                        <Unicode>wuͤnſch'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682147158_94" >
+                    <Coords points="1189,1011 1277,1011 1277,1052 1189,1052"/>
+                    <TextEquiv>
+                        <Unicode>thout.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Su praͤchti, als mers wuͤnſch'n thout.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1015" >
+                <Coords points="1072,1065 935,1066 682,1068 679,1068 674,1081 674,1093 676,1107 773,1111 883,1112 1099,1111 1186,1109 1194,1103 1195,1094 1194,1086 1152,1065 1073,1065"/>
+                <Baseline points="674,1102 760,1100 847,1099 933,1098 1020,1097 1195,1097"/>
+                <Word id="word_1480682149311_95" >
+                    <Coords points="674,1070 749,1070 749,1105 674,1105"/>
+                    <TextEquiv>
+                        <Unicode>Wer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682151152_96" >
+                    <Coords points="767,1074 835,1074 835,1107 767,1107"/>
+                    <TextEquiv>
+                        <Unicode>ſtellt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682153008_97" >
+                    <Coords points="853,1070 894,1071 895,1115 854,1114"/>
+                    <TextEquiv>
+                        <Unicode>ſih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682154740_98" >
+                    <Coords points="912,1070 975,1070 975,1103 912,1103"/>
+                    <TextEquiv>
+                        <Unicode>ober</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682156440_99" >
+                    <Coords points="990,1069 1046,1069 1048,1103 992,1103"/>
+                    <TextEquiv>
+                        <Unicode>doͤs</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682157828_100" >
+                    <Coords points="1065,1068 1106,1068 1106,1112 1065,1112"/>
+                    <TextEquiv>
+                        <Unicode>oͤiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682159685_101" >
+                    <Coords points="1123,1069 1194,1069 1194,1107 1123,1107"/>
+                    <TextEquiv>
+                        <Unicode>vuͤr,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Wer ſtellt ſih ober doͤs oͤiz vuͤr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1016" >
+                <Coords points="999,1123 689,1126 679,1130 676,1146 676,1153 679,1162 748,1170 1197,1167 1247,1166 1256,1149 1256,1144 1239,1128 1236,1128 1233,1127 1204,1127 1196,1123 1000,1123"/>
+                <Baseline points="676,1160 772,1157 868,1164 964,1157 1060,1153 1256,1151"/>
+                <Word id="word_1480682162555_102" >
+                    <Coords points="678,1132 762,1132 762,1170 678,1170"/>
+                    <TextEquiv>
+                        <Unicode>Ganz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682165254_103" >
+                    <Coords points="777,1131 879,1131 879,1163 777,1163"/>
+                    <TextEquiv>
+                        <Unicode>deutlih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682167641_104" >
+                    <Coords points="898,1129 972,1129 972,1166 898,1166"/>
+                    <TextEquiv>
+                        <Unicode>geiht</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682169575_105" >
+                    <Coords points="994,1125 1033,1126 1033,1164 994,1163"/>
+                    <TextEquiv>
+                        <Unicode>oͤiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682171588_106" >
+                    <Coords points="1050,1123 1084,1123 1084,1163 1050,1163"/>
+                    <TextEquiv>
+                        <Unicode>af</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682172992_107" >
+                    <Coords points="1097,1124 1143,1124 1142,1158 1096,1158"/>
+                    <TextEquiv>
+                        <Unicode>die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682174879_108" >
+                    <Coords points="1158,1122 1255,1122 1255,1162 1158,1162"/>
+                    <TextEquiv>
+                        <Unicode>Thuͤr,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ganz deutlih geiht oͤiz af die Thuͤr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1017" >
+                <Coords points="969,1180 689,1182 681,1184 674,1213 675,1219 754,1225 971,1225 1189,1222 1279,1218 1298,1204 1299,1186 1287,1182 1286,1182 1278,1181 1075,1181 1069,1180 970,1180"/>
+                <Baseline points="674,1216 776,1214 878,1212 980,1209 1082,1208 1288,1206"/>
+                <Word id="word_1480682177406_109" >
+                    <Coords points="676,1182 785,1182 785,1228 676,1228"/>
+                    <TextEquiv>
+                        <Unicode>Horch!</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682179278_110" >
+                    <Coords points="802,1182 858,1182 858,1224 802,1224"/>
+                    <TextEquiv>
+                        <Unicode>ſagt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682180838_111" >
+                    <Coords points="874,1185 922,1185 922,1214 874,1214"/>
+                    <TextEquiv>
+                        <Unicode>der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682182539_112" >
+                    <Coords points="942,1184 997,1184 997,1221 942,1221"/>
+                    <TextEquiv>
+                        <Unicode>ah,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682184286_113" >
+                    <Coords points="1017,1184 1052,1183 1052,1212 1017,1213"/>
+                    <TextEquiv>
+                        <Unicode>es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682186080_114" >
+                    <Coords points="1062,1177 1175,1177 1177,1212 1064,1212"/>
+                    <TextEquiv>
+                        <Unicode>kummt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682188358_115" >
+                    <Coords points="1184,1180 1217,1180 1216,1218 1183,1218"/>
+                    <TextEquiv>
+                        <Unicode>jo</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682190744_116" >
+                    <Coords points="1231,1181 1294,1181 1294,1211 1231,1211"/>
+                    <TextEquiv>
+                        <Unicode>ans.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Horch! ſagt der ah, es kummt jo ans.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1018" >
+                <Coords points="1073,1232 684,1237 676,1248 676,1273 677,1277 894,1279 997,1279 1103,1277 1204,1273 1225,1261 1225,1247 1211,1238 1198,1237 1179,1237 1158,1232 1074,1232"/>
+                <Baseline points="676,1273 765,1271 854,1268 943,1273 1032,1265 1212,1262"/>
+                <Word id="word_1480682193677_117" >
+                    <Coords points="677,1242 750,1242 750,1278 677,1278"/>
+                    <TextEquiv>
+                        <Unicode>Der</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682195518_118" >
+                    <Coords points="758,1244 840,1244 840,1275 758,1275"/>
+                    <TextEquiv>
+                        <Unicode>ander</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682197702_119" >
+                    <Coords points="854,1239 944,1239 944,1282 854,1282"/>
+                    <TextEquiv>
+                        <Unicode>ſagt;</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682199730_120" >
+                    <Coords points="956,1232 1005,1232 1005,1284 956,1284"/>
+                    <TextEquiv>
+                        <Unicode>Ih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682201680_121" >
+                    <Coords points="1020,1234 1085,1234 1085,1276 1020,1276"/>
+                    <TextEquiv>
+                        <Unicode>ſiech</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682203599_122" >
+                    <Coords points="1097,1235 1133,1235 1134,1275 1098,1275"/>
+                    <TextEquiv>
+                        <Unicode>jo</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682205299_123" >
+                    <Coords points="1148,1234 1220,1234 1222,1268 1150,1268"/>
+                    <TextEquiv>
+                        <Unicode>kans.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Der ander ſagt; Ih ſiech jo kans.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1019" >
+                <Coords points="1098,1290 687,1294 679,1299 677,1307 678,1330 678,1333 790,1339 1224,1337 1233,1334 1236,1314 1234,1297 1228,1290 1099,1290"/>
+                <Baseline points="677,1329 769,1327 862,1325 954,1323 1047,1320 1236,1320"/>
+                <Word id="word_1480682207858_124" >
+                    <Coords points="679,1299 738,1298 737,1331 678,1332"/>
+                    <TextEquiv>
+                        <Unicode>Die</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682209589_125" >
+                    <Coords points="754,1292 838,1292 838,1337 754,1337"/>
+                    <TextEquiv>
+                        <Unicode>Thuͤr</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682211461_126" >
+                    <Coords points="854,1294 905,1293 903,1336 852,1337"/>
+                    <TextEquiv>
+                        <Unicode>hob</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682213208_127" >
+                    <Coords points="928,1295 957,1294 957,1337 928,1338"/>
+                    <TextEquiv>
+                        <Unicode>ih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682215268_128" >
+                    <Coords points="975,1295 1050,1295 1050,1329 975,1329"/>
+                    <TextEquiv>
+                        <Unicode>wuhl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682217779_129" >
+                    <Coords points="1064,1294 1179,1294 1179,1335 1064,1335"/>
+                    <TextEquiv>
+                        <Unicode>g'haͤiert</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682219417_130" >
+                    <Coords points="1196,1292 1233,1293 1233,1331 1196,1330"/>
+                    <TextEquiv>
+                        <Unicode>ah</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Die Thuͤr hob ih wuhl g'haͤiert ah</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1020" >
+                <Coords points="1044,1348 706,1351 687,1351 679,1360 681,1382 686,1392 717,1395 1045,1394 1136,1393 1181,1386 1196,1376 1196,1362 1182,1355 1127,1354 1110,1354 1062,1348 1045,1348"/>
+                <Baseline points="679,1386 763,1384 847,1382 931,1381 1015,1379 1185,1377"/>
+                <Word id="word_1480682223130_131" >
+                    <Coords points="681,1352 840,1352 840,1391 681,1391"/>
+                    <TextEquiv>
+                        <Unicode>Afmach'n,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682224690_132" >
+                    <Coords points="859,1355 915,1355 915,1388 859,1388"/>
+                    <TextEquiv>
+                        <Unicode>ſcho</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682225938_133" >
+                    <Coords points="934,1359 956,1359 956,1386 934,1386"/>
+                    <TextEquiv>
+                        <Unicode>a</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682228309_134" >
+                    <Coords points="973,1352 1067,1351 1067,1389 973,1390"/>
+                    <TextEquiv>
+                        <Unicode>mauhl</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682229557_135" >
+                    <Coords points="1081,1356 1108,1356 1108,1383 1081,1383"/>
+                    <TextEquiv>
+                        <Unicode>er</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682231648_136" >
+                    <Coords points="1128,1355 1193,1355 1193,1393 1128,1393"/>
+                    <TextEquiv>
+                        <Unicode>zwa.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Afmach'n, ſcho a mauhl er zwa.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1021" >
+                <Coords points="965,1406 703,1408 691,1408 682,1417 681,1431 681,1443 683,1448 766,1452 1028,1451 1279,1448 1287,1438 1287,1428 1286,1423 1263,1407 1230,1402 1226,1409 1203,1409 1188,1408 1036,1408 1017,1407 969,1407 966,1406"/>
+                <Baseline points="681,1442 781,1440 882,1440 982,1437 1083,1435 1287,1436"/>
+                <Word id="word_1480682788568_137" >
+                    <Coords points="682,1405 733,1405 733,1447 682,1447"/>
+                    <TextEquiv>
+                        <Unicode>Es</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682790159_138" >
+                    <Coords points="748,1411 780,1411 780,1451 748,1451"/>
+                    <TextEquiv>
+                        <Unicode>iß</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682791547_139" >
+                    <Coords points="797,1408 848,1408 848,1445 797,1445"/>
+                    <TextEquiv>
+                        <Unicode>mei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682793123_140" >
+                    <Coords points="863,1407 941,1407 941,1443 863,1443"/>
+                    <TextEquiv>
+                        <Unicode>Seel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682794979_141" >
+                    <Coords points="956,1408 993,1408 993,1441 956,1441"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682796477_142" >
+                    <Coords points="1009,1406 1093,1407 1093,1448 1009,1447"/>
+                    <TextEquiv>
+                        <Unicode>Haus</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682798068_143" >
+                    <Coords points="1111,1412 1172,1410 1172,1439 1111,1441"/>
+                    <TextEquiv>
+                        <Unicode>wos</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682799659_144" >
+                    <Coords points="1189,1406 1284,1405 1285,1440 1190,1441"/>
+                    <TextEquiv>
+                        <Unicode>drinn,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Es iß mei Seel in Haus wos drinn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1022" >
+                <Coords points="1008,1461 695,1463 687,1465 683,1480 683,1487 687,1501 947,1506 1156,1502 1174,1484 1175,1467 1174,1462 1127,1462 1120,1461 1009,1461"/>
+                <Baseline points="683,1498 764,1496 846,1495 927,1494 1009,1494 1175,1493"/>
+                <Word id="word_1480682801469_145" >
+                    <Coords points="685,1467 742,1467 742,1502 685,1502"/>
+                    <TextEquiv>
+                        <Unicode>Su</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682803154_146" >
+                    <Coords points="753,1474 850,1474 851,1499 754,1499"/>
+                    <TextEquiv>
+                        <Unicode>wauer</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682804698_147" >
+                    <Coords points="866,1465 911,1464 911,1499 866,1500"/>
+                    <TextEquiv>
+                        <Unicode>als</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682805915_148" >
+                    <Coords points="929,1465 961,1465 961,1505 929,1505"/>
+                    <TextEquiv>
+                        <Unicode>ih</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682807428_149" >
+                    <Coords points="978,1463 1022,1463 1021,1498 977,1498"/>
+                    <TextEquiv>
+                        <Unicode>leb</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682810080_150" >
+                    <Coords points="1037,1469 1093,1468 1093,1497 1037,1498"/>
+                    <TextEquiv>
+                        <Unicode>und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682812061_151" >
+                    <Coords points="1111,1460 1173,1460 1173,1496 1111,1496"/>
+                    <TextEquiv>
+                        <Unicode>bin!</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Su wauer als ih leb und bin!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1023" >
+                <Coords points="1044,1519 703,1521 687,1522 684,1533 684,1555 685,1559 926,1563 1089,1563 1104,1562 1111,1559 1115,1545 1091,1519 1045,1519"/>
+                <Baseline points="684,1555 755,1553 827,1552 898,1551 970,1550 1115,1549"/>
+                <Word id="word_1480682814479_152" >
+                    <Coords points="685,1523 752,1521 752,1557 685,1559"/>
+                    <TextEquiv>
+                        <Unicode>Mir</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682816304_153" >
+                    <Coords points="767,1524 861,1524 861,1555 767,1555"/>
+                    <TextEquiv>
+                        <Unicode>woll'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682818130_154" >
+                    <Coords points="874,1522 989,1522 989,1563 874,1563"/>
+                    <TextEquiv>
+                        <Unicode>allizwei</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682819970_155" >
+                    <Coords points="1005,1521 1111,1521 1111,1562 1005,1562"/>
+                    <TextEquiv>
+                        <Unicode>afſteih,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Mir woll'n allizwei afſteih,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1024" >
+                <Coords points="1250,1573 812,1575 690,1576 684,1590 684,1609 685,1613 696,1618 881,1620 1029,1620 1267,1619 1273,1618 1284,1597 1283,1577 1271,1573 1251,1573"/>
+                <Baseline points="684,1611 782,1609 880,1608 978,1607 1076,1606 1276,1608"/>
+                <Word id="word_1480682822404_156" >
+                    <Coords points="685,1577 748,1576 748,1615 687,1614"/>
+                    <TextEquiv>
+                        <Unicode>Und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682824682_157" >
+                    <Coords points="767,1577 851,1577 851,1612 767,1612"/>
+                    <TextEquiv>
+                        <Unicode>nuͤber</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682826975_158" >
+                    <Coords points="868,1582 1005,1582 1005,1622 868,1622"/>
+                    <TextEquiv>
+                        <Unicode>g'ſchwind</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682828660_159" >
+                    <Coords points="1021,1587 1071,1586 1071,1619 1021,1620"/>
+                    <TextEquiv>
+                        <Unicode>zon</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682830547_160" >
+                    <Coords points="1088,1575 1198,1575 1198,1612 1088,1612"/>
+                    <TextEquiv>
+                        <Unicode>Doctor</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682832731_161" >
+                    <Coords points="1213,1575 1283,1574 1283,1615 1213,1616"/>
+                    <TextEquiv>
+                        <Unicode>geih.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Und nuͤber g'ſchwind zon Doctor geih.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1025" >
+                <Coords points="1082,1631 701,1633 688,1640 685,1661 685,1669 687,1675 744,1679 925,1679 1185,1676 1192,1655 1192,1650 1180,1632 1177,1632 1169,1631 1083,1631"/>
+                <Baseline points="685,1668 769,1667 853,1667 937,1666 1021,1663 1192,1661"/>
+                <Word id="word_1480682835024_162" >
+                    <Coords points="687,1636 762,1636 762,1677 687,1677"/>
+                    <TextEquiv>
+                        <Unicode>Oeiz</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682836865_163" >
+                    <Coords points="771,1633 896,1633 896,1674 771,1674"/>
+                    <TextEquiv>
+                        <Unicode>kummes</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682838644_164" >
+                    <Coords points="909,1638 974,1638 974,1675 909,1675"/>
+                    <TextEquiv>
+                        <Unicode>halt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682840562_165" >
+                    <Coords points="983,1633 1028,1633 1028,1675 983,1675"/>
+                    <TextEquiv>
+                        <Unicode>in</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682843308_166" >
+                    <Coords points="1038,1634 1117,1634 1117,1674 1038,1674"/>
+                    <TextEquiv>
+                        <Unicode>vul'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682844821_167" >
+                    <Coords points="1129,1630 1199,1630 1199,1675 1129,1675"/>
+                    <TextEquiv>
+                        <Unicode>Laf,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Oeiz kummes halt in vul'n Laf,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1026" >
+                <Coords points="1024,1688 693,1690 687,1700 687,1723 688,1727 699,1731 1118,1732 1287,1731 1296,1730 1299,1702 1293,1700 1286,1690 1236,1690 1227,1689 1206,1689 1202,1688 1025,1688"/>
+                <Baseline points="687,1724 787,1725 888,1723 988,1722 1089,1722 1293,1718"/>
+                <Word id="word_1480682846506_168" >
+                    <Coords points="688,1693 753,1693 754,1730 689,1730"/>
+                    <TextEquiv>
+                        <Unicode>Und</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682848191_169" >
+                    <Coords points="771,1693 859,1693 859,1728 771,1728"/>
+                    <TextEquiv>
+                        <Unicode>weck'n</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682849813_170" >
+                    <Coords points="873,1695 931,1695 932,1728 874,1728"/>
+                    <TextEquiv>
+                        <Unicode>den</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682851358_171" >
+                    <Coords points="945,1700 998,1700 997,1726 944,1726"/>
+                    <TextEquiv>
+                        <Unicode>von</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682853120_172" >
+                    <Coords points="1017,1691 1090,1691 1090,1726 1017,1726"/>
+                    <TextEquiv>
+                        <Unicode>Bett</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682855679_173" >
+                    <Coords points="1107,1688 1246,1688 1246,1730 1107,1730"/>
+                    <TextEquiv>
+                        <Unicode>g'ſchwind</Unicode>
+                    </TextEquiv>
+                </Word>
+                <Word id="word_1480682857223_174" >
+                    <Coords points="1263,1689 1301,1690 1301,1730 1263,1729"/>
+                    <TextEquiv>
+                        <Unicode>af.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Und weck'n den von Bett g'ſchwind af.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mih freuts, daß ih die Eiher hob,
+Jhr ſeyd doch g'ſund und wuhl? Gottlob!
+Und wos mer nau noh ſunſt'n ſagt,
+Und woͤi mer Cumplament'n macht.
+Mer iß vergnoͤgt, mer trinkt und ißt,
+Su, daß mern Schlauff baynah vergißt.
+Doch wenn mers halt ſu treibt in d'Laͤng,
+Haut g'eſſ'n und niht trunk'n z'weng,
+So iß nix beſſer als die Rouh,
+Und ſu geihts oͤiz dau ah d'raf zou.
+Oeiz in an Zimmer lieg'n zwey,
+Der dritt' der mouß dort nuͤber geih.
+Oeiz ſchlauff'ns alli ſchoͤi und gout,
+Su praͤchti, als mers wuͤnſch'n thout.
+Wer ſtellt ſih ober doͤs oͤiz vuͤr,
+Ganz deutlih geiht oͤiz af die Thuͤr,
+Horch! ſagt der ah, es kummt jo ans.
+Der ander ſagt; Ih ſiech jo kans.
+Die Thuͤr hob ih wuhl g'haͤiert ah
+Afmach'n, ſcho a mauhl er zwa.
+Es iß mei Seel in Haus wos drinn,
+Su wauer als ih leb und bin!
+Mir woll'n allizwei afſteih,
+Und nuͤber g'ſchwind zon Doctor geih.
+Oeiz kummes halt in vul'n Laf,
+Und weck'n den von Bett g'ſchwind af.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
