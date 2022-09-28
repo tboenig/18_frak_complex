@@ -29,12 +29,18 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>828</td>
+            <td>27</td>
+            <td>226</td>
+            <td>14</td>
+            <td>51</td>
          </tr>
       </tbody>
    </table>
@@ -63,7 +69,141 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>euler_rechenkunst01_1738</td>
+                  <td>94</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>32</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>234</td>
+                  <td>6</td>
+               </tr>
+               <tr>
+                  <td>luz_blitz_1784</td>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>110</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>bernd_lebensbeschreibung_1738</td>
+                  <td>15</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>71</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>justi_abhandlung01_1758</td>
+                  <td>37</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>131</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>nn_besuch_1780</td>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>76</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>buerger_gedichte_1778</td>
+                  <td>14</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>53</td>
+                  <td>2</td>
+               </tr>
+               <tr>
+                  <td>estor_rechtsgelehrsamkeit02_1758</td>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>153</td>
+                  <td>4</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
