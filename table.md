@@ -195,16 +195,16 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
          </thead>
          <tbody>
             <tr>
-               <th>euler_rechenkunst01_1738</th>
-               <td>234</td>
-               <td>6</td>
-               <td>94</td>
+               <th>nn_besuch_1780</th>
+               <td>76</td>
+               <td>4</td>
+               <td>5</td>
                <td>0</td>
                <td>0</td>
-               <td>7</td>
+               <td>3</td>
                <td>0</td>
                <td>0</td>
-               <td>32</td>
+               <td>1</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -241,17 +241,17 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0031.xml">euler_rechenkunst01_1738_0031.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00002.xml">nn_besuch_1780_00002.xml</a>
                            </td>
-                           <td>30</td>
+                           <td>26</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -262,101 +262,59 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0033.xml">euler_rechenkunst01_1738_0033.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00003.xml">nn_besuch_1780_00003.xml</a>
                            </td>
-                           <td>35</td>
+                           <td>26</td>
                            <td>1</td>
-                           <td>13</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00004.xml">nn_besuch_1780_00004.xml</a>
+                           </td>
+                           <td>14</td>
+                           <td>1</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00001.xml">nn_besuch_1780_00001.xml</a>
+                           </td>
+                           <td>10</td>
+                           <td>1</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0026.xml">euler_rechenkunst01_1738_0026.xml</a>
-                           </td>
-                           <td>44</td>
                            <td>1</td>
-                           <td>27</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
-                           </td>
-                           <td>32</td>
-                           <td>1</td>
-                           <td>13</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
-                           </td>
-                           <td>64</td>
-                           <td>1</td>
-                           <td>23</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0041.xml">euler_rechenkunst01_1738_0041.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>11</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -370,16 +328,16 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                </td>
             </tr>
             <tr>
-               <th>luz_blitz_1784</th>
-               <td>110</td>
-               <td>4</td>
-               <td>17</td>
+               <th>buerger_gedichte_1778</th>
+               <td>53</td>
+               <td>2</td>
+               <td>14</td>
                <td>0</td>
                <td>0</td>
-               <td>1</td>
                <td>0</td>
                <td>0</td>
-               <td>4</td>
+               <td>0</td>
+               <td>6</td>
                <td>0</td>
                <td>0</td>
                <td>0</td>
@@ -416,17 +374,17 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0027.xml">luz_blitz_1784_0027.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0039.xml">buerger_gedichte_1778_0039.xml</a>
                            </td>
-                           <td>36</td>
+                           <td>38</td>
                            <td>1</td>
-                           <td>4</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>1</td>
+                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -437,53 +395,11 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0007.xml">luz_blitz_1784_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0066.xml">buerger_gedichte_1778_0066.xml</a>
                            </td>
                            <td>15</td>
                            <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0009.xml">luz_blitz_1784_0009.xml</a>
-                           </td>
-                           <td>24</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0020.xml">luz_blitz_1784_0020.xml</a>
-                           </td>
-                           <td>35</td>
-                           <td>1</td>
-                           <td>7</td>
+                           <td>8</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -549,17 +465,17 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0007.xml">bernd_lebensbeschreibung_1738_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0021.xml">bernd_lebensbeschreibung_1738_0021.xml</a>
                            </td>
-                           <td>19</td>
+                           <td>21</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -591,17 +507,192 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0021.xml">bernd_lebensbeschreibung_1738_0021.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0007.xml">bernd_lebensbeschreibung_1738_0007.xml</a>
                            </td>
-                           <td>21</td>
+                           <td>19</td>
                            <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>euler_rechenkunst01_1738</th>
+               <td>234</td>
+               <td>6</td>
+               <td>94</td>
+               <td>0</td>
+               <td>0</td>
+               <td>7</td>
+               <td>0</td>
+               <td>0</td>
+               <td>32</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0026.xml">euler_rechenkunst01_1738_0026.xml</a>
+                           </td>
+                           <td>44</td>
+                           <td>1</td>
+                           <td>27</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0041.xml">euler_rechenkunst01_1738_0041.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>11</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0033.xml">euler_rechenkunst01_1738_0033.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
+                           </td>
+                           <td>64</td>
+                           <td>1</td>
+                           <td>23</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0031.xml">euler_rechenkunst01_1738_0031.xml</a>
+                           </td>
+                           <td>30</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
+                           </td>
+                           <td>32</td>
+                           <td>1</td>
+                           <td>13</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -661,17 +752,17 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0133.xml">justi_abhandlung01_1758_0133.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0026.xml">justi_abhandlung01_1758_0026.xml</a>
                            </td>
-                           <td>41</td>
+                           <td>27</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>19</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -703,6 +794,27 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0133.xml">justi_abhandlung01_1758_0133.xml</a>
+                           </td>
+                           <td>41</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0134.xml">justi_abhandlung01_1758_0134.xml</a>
                            </td>
                            <td>32</td>
@@ -714,251 +826,6 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0026.xml">justi_abhandlung01_1758_0026.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>19</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>nn_besuch_1780</th>
-               <td>76</td>
-               <td>4</td>
-               <td>5</td>
-               <td>0</td>
-               <td>0</td>
-               <td>3</td>
-               <td>0</td>
-               <td>0</td>
-               <td>1</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00001.xml">nn_besuch_1780_00001.xml</a>
-                           </td>
-                           <td>10</td>
-                           <td>1</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00002.xml">nn_besuch_1780_00002.xml</a>
-                           </td>
-                           <td>26</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00004.xml">nn_besuch_1780_00004.xml</a>
-                           </td>
-                           <td>14</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00003.xml">nn_besuch_1780_00003.xml</a>
-                           </td>
-                           <td>26</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
-               <th>buerger_gedichte_1778</th>
-               <td>53</td>
-               <td>2</td>
-               <td>14</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>6</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0066.xml">buerger_gedichte_1778_0066.xml</a>
-                           </td>
-                           <td>15</td>
-                           <td>1</td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0039.xml">buerger_gedichte_1778_0039.xml</a>
-                           </td>
-                           <td>38</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>5</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -1039,6 +906,27 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
+                           </td>
+                           <td>20</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0119.xml">estor_rechtsgelehrsamkeit02_1758_0119.xml</a>
                            </td>
                            <td>44</td>
@@ -1079,19 +967,131 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                            <td>0</td>
                            <td>0</td>
                         </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>luz_blitz_1784</th>
+               <td>110</td>
+               <td>4</td>
+               <td>17</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+               <td>4</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0007.xml">luz_blitz_1784_0007.xml</a>
                            </td>
-                           <td>20</td>
+                           <td>15</td>
                            <td>1</td>
-                           <td>7</td>
+                           <td>3</td>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0027.xml">luz_blitz_1784_0027.xml</a>
+                           </td>
+                           <td>36</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0020.xml">luz_blitz_1784_0020.xml</a>
+                           </td>
+                           <td>35</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/main/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0009.xml">luz_blitz_1784_0009.xml</a>
+                           </td>
+                           <td>24</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
