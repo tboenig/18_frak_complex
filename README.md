@@ -71,82 +71,6 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
             </thead>
             <tbody>
                <tr>
-                  <td>euler_rechenkunst01_1738</td>
-                  <td>94</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td>32</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>234</td>
-                  <td>6</td>
-               </tr>
-               <tr>
-                  <td>luz_blitz_1784</td>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>110</td>
-                  <td>4</td>
-               </tr>
-               <tr>
-                  <td>bernd_lebensbeschreibung_1738</td>
-                  <td>15</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>71</td>
-                  <td>3</td>
-               </tr>
-               <tr>
-                  <td>justi_abhandlung01_1758</td>
-                  <td>37</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>131</td>
-                  <td>4</td>
-               </tr>
-               <tr>
                   <td>nn_besuch_1780</td>
                   <td>5</td>
                   <td/>
@@ -185,6 +109,63 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                   <td>2</td>
                </tr>
                <tr>
+                  <td>bernd_lebensbeschreibung_1738</td>
+                  <td>15</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>71</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>euler_rechenkunst01_1738</td>
+                  <td>94</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>32</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>234</td>
+                  <td>6</td>
+               </tr>
+               <tr>
+                  <td>justi_abhandlung01_1758</td>
+                  <td>37</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>131</td>
+                  <td>4</td>
+               </tr>
+               <tr>
                   <td>estor_rechtsgelehrsamkeit02_1758</td>
                   <td>44</td>
                   <td/>
@@ -201,6 +182,25 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                   <td/>
                   <td/>
                   <td>153</td>
+                  <td>4</td>
+               </tr>
+               <tr>
+                  <td>luz_blitz_1784</td>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>110</td>
                   <td>4</td>
                </tr>
             </tbody>
