@@ -241,7 +241,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0027.xml">luz_blitz_1784_0027.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0027.xml">luz_blitz_1784_0027.xml</a>
                            </td>
                            <td>36</td>
                            <td>1</td>
@@ -262,7 +262,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0009.xml">luz_blitz_1784_0009.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0009.xml">luz_blitz_1784_0009.xml</a>
                            </td>
                            <td>24</td>
                            <td>1</td>
@@ -283,7 +283,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0020.xml">luz_blitz_1784_0020.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0020.xml">luz_blitz_1784_0020.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -304,7 +304,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0007.xml">luz_blitz_1784_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/luz_blitz_1784/GT-PAGE/luz_blitz_1784_0007.xml">luz_blitz_1784_0007.xml</a>
                            </td>
                            <td>15</td>
                            <td>1</td>
@@ -374,7 +374,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0007.xml">bernd_lebensbeschreibung_1738_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0007.xml">bernd_lebensbeschreibung_1738_0007.xml</a>
                            </td>
                            <td>19</td>
                            <td>1</td>
@@ -395,7 +395,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0021.xml">bernd_lebensbeschreibung_1738_0021.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0021.xml">bernd_lebensbeschreibung_1738_0021.xml</a>
                            </td>
                            <td>21</td>
                            <td>1</td>
@@ -416,7 +416,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0066.xml">bernd_lebensbeschreibung_1738_0066.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/bernd_lebensbeschreibung_1738/GT-PAGE/bernd_lebensbeschreibung_1738_0066.xml">bernd_lebensbeschreibung_1738_0066.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -486,7 +486,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0026.xml">justi_abhandlung01_1758_0026.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0026.xml">justi_abhandlung01_1758_0026.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -507,7 +507,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0133.xml">justi_abhandlung01_1758_0133.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0133.xml">justi_abhandlung01_1758_0133.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -528,7 +528,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0031.xml">justi_abhandlung01_1758_0031.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0031.xml">justi_abhandlung01_1758_0031.xml</a>
                            </td>
                            <td>31</td>
                            <td>1</td>
@@ -549,7 +549,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0134.xml">justi_abhandlung01_1758_0134.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/justi_abhandlung01_1758/GT-PAGE/justi_abhandlung01_1758_0134.xml">justi_abhandlung01_1758_0134.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -619,7 +619,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0026.xml">euler_rechenkunst01_1738_0026.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0026.xml">euler_rechenkunst01_1738_0026.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -640,7 +640,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0025.xml">euler_rechenkunst01_1738_0025.xml</a>
                            </td>
                            <td>64</td>
                            <td>1</td>
@@ -661,7 +661,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0041.xml">euler_rechenkunst01_1738_0041.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0041.xml">euler_rechenkunst01_1738_0041.xml</a>
                            </td>
                            <td>29</td>
                            <td>1</td>
@@ -682,7 +682,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0031.xml">euler_rechenkunst01_1738_0031.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0031.xml">euler_rechenkunst01_1738_0031.xml</a>
                            </td>
                            <td>30</td>
                            <td>1</td>
@@ -703,7 +703,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0033.xml">euler_rechenkunst01_1738_0033.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0033.xml">euler_rechenkunst01_1738_0033.xml</a>
                            </td>
                            <td>35</td>
                            <td>1</td>
@@ -724,7 +724,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/euler_rechenkunst01_1738/GT-PAGE/euler_rechenkunst01_1738_0024.xml">euler_rechenkunst01_1738_0024.xml</a>
                            </td>
                            <td>32</td>
                            <td>1</td>
@@ -794,7 +794,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0039.xml">buerger_gedichte_1778_0039.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0039.xml">buerger_gedichte_1778_0039.xml</a>
                            </td>
                            <td>38</td>
                            <td>1</td>
@@ -815,7 +815,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0066.xml">buerger_gedichte_1778_0066.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/buerger_gedichte_1778/GT-PAGE/buerger_gedichte_1778_0066.xml">buerger_gedichte_1778_0066.xml</a>
                            </td>
                            <td>15</td>
                            <td>1</td>
@@ -885,7 +885,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0119.xml">estor_rechtsgelehrsamkeit02_1758_0119.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0119.xml">estor_rechtsgelehrsamkeit02_1758_0119.xml</a>
                            </td>
                            <td>44</td>
                            <td>1</td>
@@ -906,7 +906,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0819.xml">estor_rechtsgelehrsamkeit02_1758_0819.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0819.xml">estor_rechtsgelehrsamkeit02_1758_0819.xml</a>
                            </td>
                            <td>41</td>
                            <td>1</td>
@@ -927,7 +927,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0117.xml">estor_rechtsgelehrsamkeit02_1758_0117.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0117.xml">estor_rechtsgelehrsamkeit02_1758_0117.xml</a>
                            </td>
                            <td>48</td>
                            <td>1</td>
@@ -948,7 +948,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/estor_rechtsgelehrsamkeit02_1758/GT-PAGE/estor_rechtsgelehrsamkeit02_1758_0007.xml">estor_rechtsgelehrsamkeit02_1758_0007.xml</a>
                            </td>
                            <td>20</td>
                            <td>1</td>
@@ -1018,7 +1018,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00001.xml">nn_besuch_1780_00001.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00001.xml">nn_besuch_1780_00001.xml</a>
                            </td>
                            <td>10</td>
                            <td>1</td>
@@ -1039,7 +1039,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00002.xml">nn_besuch_1780_00002.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00002.xml">nn_besuch_1780_00002.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -1060,7 +1060,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00003.xml">nn_besuch_1780_00003.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00003.xml">nn_besuch_1780_00003.xml</a>
                            </td>
                            <td>26</td>
                            <td>1</td>
@@ -1081,7 +1081,7 @@ font blackletter, marginal notes, partly two-columned, tables, mathematics, hand
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.0/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00004.xml">nn_besuch_1780_00004.xml</a>
+                              <a href="https://github.com/tboenig/18_frak_complex/blob/v1.1.2/data/nn_besuch_1780/GT-PAGE/nn_besuch_1780_00004.xml">nn_besuch_1780_00004.xml</a>
                            </td>
                            <td>14</td>
                            <td>1</td>

@@ -247,7 +247,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/18_frak_complex/releases/tag/v1.1.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 12_v1.1.0</a>
+         <a href="https://github.com/tboenig/18_frak_complex/releases/tag/v1.1.2">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 14_v1.1.2</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/18_frak_complex/releases">Version archive</a>
