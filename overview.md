@@ -134,7 +134,7 @@
    </thead>
    <tbody>
       <tr>
-         <th>bernd_lebensbeschreibung_1738_0066.xml</th>
+         <th>luz_blitz_1784_0027.xml</th>
          <td>4</td>
          <td>0</td>
          <td>0</td>
@@ -149,45 +149,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>31</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bernd_lebensbeschreibung_1738_0007.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>19</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>bernd_lebensbeschreibung_1738_0021.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>21</td>
+         <td>36</td>
          <td>1</td>
       </tr>
       <tr>
@@ -207,25 +169,6 @@
          <td>0</td>
          <td>0</td>
          <td>24</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>luz_blitz_1784_0027.xml</th>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>36</td>
          <td>1</td>
       </tr>
       <tr>
@@ -267,124 +210,10 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>buerger_gedichte_1778_0066.xml</th>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>15</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>buerger_gedichte_1778_0039.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>5</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>38</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>euler_rechenkunst01_1738_0031.xml</th>
+         <th>bernd_lebensbeschreibung_1738_0007.xml</th>
          <td>7</td>
          <td>0</td>
          <td>0</td>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>8</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>30</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>euler_rechenkunst01_1738_0041.xml</th>
-         <td>11</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>29</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>euler_rechenkunst01_1738_0025.xml</th>
-         <td>23</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>64</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>euler_rechenkunst01_1738_0024.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>32</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>euler_rechenkunst01_1738_0033.xml</th>
-         <td>13</td>
-         <td>0</td>
-         <td>0</td>
          <td>1</td>
          <td>0</td>
          <td>0</td>
@@ -396,131 +225,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>35</td>
+         <td>19</td>
          <td>1</td>
       </tr>
       <tr>
-         <th>euler_rechenkunst01_1738_0026.xml</th>
-         <td>27</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>44</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>nn_besuch_1780_00002.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>26</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>nn_besuch_1780_00001.xml</th>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>10</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>nn_besuch_1780_00003.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>26</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>nn_besuch_1780_00004.xml</th>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>14</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>justi_abhandlung01_1758_0133.xml</th>
-         <td>7</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>41</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>justi_abhandlung01_1758_0134.xml</th>
+         <th>bernd_lebensbeschreibung_1738_0021.xml</th>
          <td>4</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -528,19 +244,18 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>32</td>
+         <td>21</td>
          <td>1</td>
       </tr>
       <tr>
-         <th>justi_abhandlung01_1758_0031.xml</th>
-         <td>7</td>
+         <th>bernd_lebensbeschreibung_1738_0066.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>1</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -568,6 +283,215 @@
          <td>0</td>
          <td>0</td>
          <td>27</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>justi_abhandlung01_1758_0133.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>41</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>justi_abhandlung01_1758_0031.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>31</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>justi_abhandlung01_1758_0134.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>32</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0026.xml</th>
+         <td>27</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>44</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0025.xml</th>
+         <td>23</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>64</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0041.xml</th>
+         <td>11</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>29</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0031.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>30</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0033.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>35</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>euler_rechenkunst01_1738_0024.xml</th>
+         <td>13</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>32</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buerger_gedichte_1778_0039.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>38</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>buerger_gedichte_1778_0066.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>15</td>
          <td>1</td>
       </tr>
       <tr>
@@ -644,6 +568,82 @@
          <td>0</td>
          <td>0</td>
          <td>20</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00001.xml</th>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>10</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00002.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00003.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>26</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>nn_besuch_1780_00004.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>14</td>
          <td>1</td>
       </tr>
    </tbody>
